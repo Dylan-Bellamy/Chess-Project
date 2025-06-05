@@ -14,4 +14,5 @@ This is a past private repository to build a replica chess game. We had the hope
 ## Insights
 
 This past repository had two contributors, being myself and a friend of mine
+This project was first started by both of us working on a single computer, which later shifted to working on separate computers
 ![Chess Stats](https://github.com/user-attachments/assets/2da505f7-9c7d-4b5b-979b-ce92aa4fb3d4)
