@@ -1,2 +1,9 @@
-# Chess-Project
-This is a past JavaFX project I built with my high school best friend, which was a replica of a chessboard.
+# Final Project
+
+**Greenfoot**
+
+If you are doing the geenfoot version please delete the `src` folder
+
+**JavaFx**
+
+If you are doing a JavaFx version please delete the `Greenfoot Template` folder
