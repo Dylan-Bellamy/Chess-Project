@@ -1,3 +1,5 @@
+package dylan_and_gavin;
+
 import java.io.IOException;
 import javafx.application.Platform;
 import javafx.fxml.FXML;
